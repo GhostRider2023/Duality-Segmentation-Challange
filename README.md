@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Semantic Segmentation — CODE CRUNCH Hackathon
+# 🌿 Semantic Segmentation —Duality Challange
 
 ### *Nature Scene Parsing with DINOv2 + Custom Segmentation Head*
 
