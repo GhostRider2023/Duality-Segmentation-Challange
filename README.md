@@ -220,6 +220,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with 🔥 PyTorch & 🦕 DINOv2 for the Code Crunch Hackathon**
+**Built with 🔥 PyTorch & 🦕 DINOv2 **
 
 </div>
