@@ -63,7 +63,7 @@ Input Image → DINOv2 Backbone → ASPP Multi-Scale Context → FPN Decoder →
 
 ### Detailed architecture diagram
 
-![Model Architecture](image1)
+![Model Architecture](ARCHITECTURE.jpeg)
 
 ### Component breakdown
 
@@ -89,7 +89,7 @@ Input Image → DINOv2 Backbone → ASPP Multi-Scale Context → FPN Decoder →
 | **Epochs** | 10 |
 | **Loss** | CE + Dice combination (experiment variants) |
 | **Backbone Strategy** | Frozen in baseline, partially unfrozen in improved runs |
-| **Augmentations** | Flip, rotate, color jitter (image only), normalize |
+| **Augmentations** | Flip, rotate, color jitter, normalize |
 
 ### 📈 Data Augmentation Pipeline
 
@@ -97,7 +97,7 @@ Applied consistently to image-mask pairs where required:
 
 - Random horizontal / vertical flips  
 - Random rotations  
-- Color jitter *(image only)*  
+- Color jitter 
 - Normalization  
 
 ---
