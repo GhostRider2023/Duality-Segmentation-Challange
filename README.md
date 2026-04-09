@@ -123,9 +123,6 @@ Applied consistently to image-mask pairs where required:
 - **Reported test mIoU:** **0.55**  
 - **Latency:** **~42 ms**
 
-### Per-class chart
-
-![Per-Class Metrics](per_class_metrics.png)
 
 ---
 
